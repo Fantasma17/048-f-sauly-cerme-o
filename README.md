@@ -70,20 +70,7 @@ npm run test:enlace              # Verificar enlace
 ```
 proyecto/
 ├── tests/
-│   ├── registro-usuario.spec.ts
-│   ├── registro-usuario-existente.spec.ts
-│   ├── editar-perfil.spec.ts
-│   ├── votar-carro.spec.ts
-│   ├── votar-auto.spec.ts
-│   ├── votar-sin-login.spec.ts
-│   ├── comprobar-voto-unico.spec.ts
-│   ├── comprobar-incremento-voto.spec.ts
-│   ├── comprobar-texto-largo.spec.ts
-│   ├── comentario-sin-nombre.spec.ts
-│   ├── expandir-imagen-carro.spec.ts
-│   ├── limite-paginacion.spec.ts
-│   ├── limite-inferior-paginacion.spec.ts
-│   └── verificar-enlace.spec.ts
+│   ├──
 ├── package.json
 ├── playwright.config.ts
 └── README.md
